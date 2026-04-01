@@ -42,7 +42,7 @@ I am a **Professional Front-End Developer** who believes that code is a form of 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikedz.co" height="30" width="40" /></a>
 <a href="https://instagram.com/ikedz.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ikedz.co" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ikedz.co" height="30" width="40" /></a>
+<a href="https://x.com/iSkedzy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ikedz.co" height="30" width="40" /></a>
 </p>
 
 ---
