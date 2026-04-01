@@ -32,8 +32,8 @@ I am a **Professional Front-End Developer** who believes that code is a form of 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikedz-co&show_icons=true&theme=radical" alt="Ikedz GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikedz-co&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikedzco&show_icons=true&theme=radical" alt="ikedzco GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikedzco&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
