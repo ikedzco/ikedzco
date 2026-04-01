@@ -1,9 +1,5 @@
 # Hi there, I'm Ikedz.co! 👋 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Front-End%20Architect&fontSize=60" width="100%" />
-</p>
-
 ### 👨‍💻 About Me
 I am a **Professional Front-End Developer** who believes that code is a form of art. For me, coding isn't just a job—it's about crafting seamless digital experiences that look beautiful and perform flawlessly.
 
